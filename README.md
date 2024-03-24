@@ -33,6 +33,7 @@ The achievements of this dissertation have been previously presented by the auth
 
 The formal citation for the dissertation is:
 
-- J. Siast, "Architecture and protocols for networks-on-chip implemented in FPGA devices," Poznan University of Technology, Faculty of Electronics and Telecommunications, Dec 11, 2019.
+- J. Siast, “Architecture and protocols for networks-on-chip implemented in FPGA devices”, PhD Dissertation at Poznan University of Technology, Faculty of Electronics and Telecommunications, 2019, Supervisor: prof. dr hab. inż. Marek Domański, Reviewers: prof. Edward Hrynkiewicz, dr Diana Goehringer.
+
 
 This dissertation contributes significantly to the field of FPGA-based system design, offering a comprehensive analysis and development of the RingNet architecture and its implications for high-volume data processing applications.
