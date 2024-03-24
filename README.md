@@ -22,3 +22,17 @@ The dissertation was supervised by **Prof. Dr. Hab. Inż. Marek Domański**.
 ## Distinction
 
 The dissertation was defended with distinction.
+
+## Prior Publication
+
+The achievements of this dissertation have been previously presented by the author, Dr. Adam Łuczak, alongside Professor Marek Domański in the paper titled “RingNet: A Memory-Oriented Network-On-Chip Designed for FPGA,” which was published in the *Institute of Electrical and Electronics Engineers (IEEE) Transactions on Very Large Scale Integrated (VLSI) Systems* in 2019. This publication laid the groundwork for the dissertation, detailing preliminary findings and methodologies that were further expanded upon. The citation for this paper is as follows:
+
+- J. Siast, A. Łuczak, and M. Domański, "RingNet: A Memory-Oriented Network-On-Chip Designed for FPGA," in *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*, vol. 27, no. 6, pp. 1284-1297, 2019.
+
+## Dissertation Citation
+
+The formal citation for the dissertation is:
+
+- J. Siast, "Architecture and protocols for networks-on-chip implemented in FPGA devices," Poznan University of Technology, Faculty of Electronics and Telecommunications, Dec 11, 2019.
+
+This dissertation contributes significantly to the field of FPGA-based system design, offering a comprehensive analysis and development of the RingNet architecture and its implications for high-volume data processing applications.
